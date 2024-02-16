@@ -1,0 +1,23 @@
+.main-div {
+  display: flex;
+  flex-direction: column;
+  border: 3px solid;
+  max-width: 9.5%;
+}
+.d1 {
+  width: 150px;
+  height: 150px;
+  color: #ffffff;
+}
+.c1 {
+  background-color: red;
+}
+.c2 {
+  background-color: green;
+}
+.c3 {
+  background-color: blue;
+}
+.c4 {
+  background-color: brown;
+}

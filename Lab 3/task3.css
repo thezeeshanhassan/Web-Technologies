@@ -1,0 +1,21 @@
+table,th{
+    border: 1px solid black;
+}
+td{
+    align-items: center;
+}
+
+.main{
+    border: none;
+    
+}
+.main1{
+    text-align: center;
+}
+.coloured-data{
+    color: rgb(22, 156, 17);
+}
+tr:hover{
+    color: rgb(255, 255, 255);
+    background-color: royalblue;
+}

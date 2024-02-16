@@ -1,0 +1,80 @@
+.main-div {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 80%;
+  border: 2px solid;
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-left: 100px;
+  box-shadow: 1px 1px rgb(181, 238, 123);
+}
+.about-bar {
+  width: 10%;
+  height: 5px;
+  background-color: #068f0a;
+}
+img {
+  width: 150px;
+  height: 150px;
+  border: 5px solid green;
+  border-radius: 100px;
+}
+img:hover {
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+  transition: 0.3s ease-in;
+}
+.img-section {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.righ-div {
+  margin-right: 50px;
+}
+.profile-div {
+  margin-left: 40px;
+}
+.left-div {
+  width: 35%;
+}
+.right-div {
+  width: 35%;
+}
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  color: white;
+}
+
+.html {
+  width: 90%;
+  background-color: #068f0a;
+}
+.css {
+  width: 80%;
+  background-color: #068f0a;
+}
+.js {
+  width: 65%;
+  background-color: #068f0a;
+}
+.node {
+  width: 80%;
+  background-color: #068f0a;
+}
+h2 {
+  color: #068f0a;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+}

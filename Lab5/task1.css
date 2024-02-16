@@ -1,0 +1,39 @@
+.outer-div{
+    background-color: rgb(250, 221, 182);
+    border: 5px solid red;
+    margin: 50px 250px 50px 250px;
+}
+.inner-div1{
+    
+    border-radius: 5px;
+    padding: 50px 50px 50px 50px;
+}
+img{
+    border: 5px solid rgb(161, 208, 9);
+    height: 250px;
+    width: 500px;
+}
+.headings{
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.inner-div2{
+    margin: 40px 250px 40px 40px;
+    margin-top: 50px;
+    border: 7px solid rgb(167, 154, 15);
+    border-style: dashed;
+    
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+textarea{
+    background-color: yellow;
+    font-size: 18px;
+}
+span{
+    font-weight: bold;
+    text-decoration: underline;
+}

@@ -1,0 +1,27 @@
+.outer-div{
+    background-color: orangered;
+    width: 500px;
+    height: 100px;
+    border-radius: 5px;
+}
+.heading{
+    color: white;
+    margin: 20px;
+}
+.content{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.search{
+    margin-left: 20px;
+}
+
+input{
+    width: 80%;
+}
+button{
+    border: none;
+    border-radius: 5px;
+    color: orangered;
+}

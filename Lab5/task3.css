@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.hf{
+    width: 100VW;
+    height: 20VH;
+    background-color: rgb(60, 225, 60);
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.inner-div{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+}
+.article{
+    background-color: antiquewhite;
+    height: 50VH;
+    width: 70VW;
+    padding: 20px;
+}
+.aside{
+    background-color: rgb(204, 196, 154);
+    height: 50VH;
+    width: 15VW;
+    padding: 20px;
+}
+
+.nav{
+    background-color: rgb(95, 137, 79);
+    height: 50VH;
+    width: 15VW;
+    padding: 20px;
+}

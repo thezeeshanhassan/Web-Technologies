@@ -1,0 +1,31 @@
+.outer-div{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    background-color:floralwhite;
+    border: 3px solid lightpink;
+    margin: 0px 350px 0px 350px;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    padding: 10px;
+    margin: 5px;
+    background-color: aqua;
+    border-radius: 5px;
+}
